@@ -1,10 +1,10 @@
 # HOVER-EFFECT
 The remarkable effect of the hover is beautifully showcased in this project.🎇
-![viewfinal](https://user-images.githubusercontent.com/109727844/204102879-086fee63-9bda-43b2-a1aa-49879c3f2d39.jpg)
+![viewfinal]()
 
 
 
-- [Demo Project](https://pouria-farahani-developer.github.io/Accordion-Menu-By-React/)
+- [Demo Project](https://rahimitabarshiva.github.io/HOVER-EFFECT/)
 
 - Developed by Shiva Rahimitabar
 
